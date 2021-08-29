@@ -1,6 +1,23 @@
 # TCC 1- Fichamento
 **Nome**: João Pedro Teles de Andrades Pereira
 
+# Lista artigos
+1.How Developers Choose Names
+2.Understanding coordination in global software engineering: A mixed-methods study on the use of meetings and Slack
+3.The Impact of Microservices on the Evolution of a Software Product Line
+4.Um Levantamento de Fatores Humanos e Técnicos em Garantia de Qualidade de Projeto de Software Embarcado Aeronáutico no Brasil
+5.Lean Learning - Applying Lean Techniques to Improve Software Engineering Education
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
 # How Developers Choose Names
 
 D. Feitelson, A. Mizrahi, N. Noy, A. Ben Shabat, O. Eliyahu and R. Sheffer, "How Developers Choose Names," in IEEE Transactions on Software Engineering, doi: [10.1109/TSE.2020.2976920](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9018121).
@@ -61,21 +78,9 @@ No processo de evolução de software, a arquitetura de microserviços tem o pro
 <!-- 
 ##2. **Fichamento Bibliográfico**
 
-* ** (Desenvolvimento ágil de software) é uma abordagem em que softwares são desenvolvidos de forma colaborativa, com equipes multidisciplinares que têm um bom nível de autonomia na execução de seus trabalhos. (Página 13)
-
-* *Computer-mediated communication* (Comunicação mediada por computador) designa qualquer transação comunicativa por meio da utilização de dois ou mais computadores em rede. (Página 2)
-
 ##3. **Fichamento de Citações**
 
-* "A longitudinal study on coordination in global software development."
-
-* "Data from interviews, observations, documents, Slack logs, and a survey."
-
-* "Developers spend more time in unscheduled than scheduled coordination."
-
-* "Employees in global projects spend 16 h and 36 min per week in meetings."
-
-* "Collaboration tools increase awareness and informal communication and reduce the need for e-mail." -->
+ -->
 
 # Um Levantamento de Fatores Humanos e Técnicos em Garantia de Qualidade de Projeto de Software Embarcado Aeronáutico no Brasil
 
@@ -90,3 +95,23 @@ Em produtos de aviação recentes, o software de aviação integrado é amplamen
 * *Software High-level Requirements* (Especificacção de requisitos de alto nível) neste documento objetiva-se delimitar o escopo do requisito, de forma a fornecer insumos para a elaboração do cronograma detalhado. (Página 2)
 
 ## 3. **Fichamento de Citações**
+
+#Lean Learning - Applying Lean Techniques to Improve Software Engineering Education
+
+R. Chatley and T. Field, (2017) "Lean Learning - Applying Lean Techniques to Improve Software Engineering Education", IEEE/ACM 39th International Conference on Software Engineering: Software Engineering Education and Training Track (ICSE-SEET), pp. 117-126, doi: 10.1109/ICSE-SEET.2017.5.
+
+## 1. **Fichamento de Conteúdo**
+
+Construir uma grade e programa de curso que atenda e acompanhe o mercado de trabalho é uma tarefa muito difícil e dificilmente alcançada totalmente. É comum que hajam lacunas entres pessoas que aprendem pela faculdade e aquelas que aprendem nas empresas. Dito isto, este artigo demonstra, através de um estudo de caso, o desenvolvimento de um programa no Imperial College London, de forma detalhada e estruturada, que preenche essa lacuna, fornecendo aos alunos habilidades relevantes para carreiras em engenharia de software no mercado. Este artigo mostra também que, quando alinhado esta técnica desenvolvida com Lean Software Delivery, torna-se possível oferecer experiências de aprendizagem de qualidade. Finalmente, fica evidenciado neste artigo que, nesta faculdade, os alunos se formam profissionais muito bem adaptados para o mercado de trabalho, uma vez que suas técnicas e habilidades se alinharam, desde o início de seu curso, com as necessidades das indústrias.
+
+## 2. **Fichamento Bibliográfico**
+
+* O *Kanban* é um framework de gestão ágil que auxilia diversos tipos de equipe, uma vez que ele é extremamente visual e facilmente adaptável a realidade do projeto.
+
+* *Continuous delivery* é uma pratica que infere na entrega do software em ciclos curtos, garantindo que ele seja lançado com segurança em qualquer momento. É muito utilizado na metodologia ágil, que possui entregas pequenas e incrementais. Seu objetivo é criar, testar e liberar software com maior velocidade.
+
+## 3. **Fichamento de Citações**
+
+* “Within Imperial’s curriculum, software engineering design concerns the methods, tools and techniques for the development and deployment of large-scale software systems that are robust, well engineered and easy to maintain by design. This is taught within a single course of the same name.”
+
+* “The last aspect of software engineering that we address in our programme, with the aim of producing industry-ready engineers, is an exploration of industrial practice and experience.”
