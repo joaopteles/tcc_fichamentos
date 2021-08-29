@@ -1,22 +1,13 @@
 # TCC 1- Fichamento
 **Nome**: João Pedro Teles de Andrades Pereira
 
-# Lista artigos
+# Artigos:
 1. How Developers Choose Names
 2. Understanding coordination in global software engineering: A mixed-methods study on the use of meetings and Slack
 3. The Impact of Microservices on the Evolution of a Software Product Line
 4. Um Levantamento de Fatores Humanos e Técnicos em Garantia de Qualidade de Projeto de Software Embarcado Aeronáutico no Brasil
 5. Lean Learning - Applying Lean Techniques to Improve Software Engineering Education
 6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
 
 # How Developers Choose Names
 
